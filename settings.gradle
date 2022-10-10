@@ -1,0 +1,5 @@
+rootProject.name = 'Builder_Grad'
+include 'db'
+include 'api'
+include 'service'
+
